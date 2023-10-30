@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat JAin</h1>
+<h1 align="center">Hi 👋, I'm Akshat Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienaj23&label=Profile%20views&color=0e75b6&style=flat" alt="alienaj23" /> </p>
