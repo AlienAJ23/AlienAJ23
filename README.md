@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React, Bootstrap, Angular**
+- 🌱 I’m currently learning **Backend Development, Data Science**
 
-- 💬 Ask me about **Frontend, Data-Structures**
+- 💬 Ask me about **Web Development, AI, Data-Structures**
 
 - 📫 How to reach me **akshatjain0223@gmail.com**
 
